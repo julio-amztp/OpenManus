@@ -40,3 +40,7 @@ crawl4ai~=0.6.3
 
 huggingface-hub~=0.29.2
 setuptools~=75.8.0
+
+# Presentation generation
+python-pptx~=0.6.23
+reportlab~=4.2.5  # Para PDFs
